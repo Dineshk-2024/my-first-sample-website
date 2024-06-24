@@ -1,0 +1,18 @@
+.figure-container {
+  text-align: center;
+  margin-bottom: 20%;
+}
+
+.figure-container[img]{
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0% auto;
+}
+
+.figure-container[figcaption]{
+  font-style: italic;
+  color: #666;
+  margin-top: 5px;
+ 
+}
